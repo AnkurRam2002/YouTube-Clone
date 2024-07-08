@@ -9,6 +9,7 @@ This project is a YouTube Clone built with React and Material UI. It fetches dat
 - Related Videos: Browse related videos based on the selected video.
 - Responsive Design: Ensures compatibility and usability across various devices and screen sizes.
 - Dockerized: The application is containerized for easy deployment and scalability.
+- Azure Deployment: Deployed on Microsoft Azure for scalability and reliability.
   
 <h3>Technologies Used</h3>
 
@@ -17,3 +18,4 @@ This project is a YouTube Clone built with React and Material UI. It fetches dat
 - Axios: Promise-based HTTP client for making API requests.
 - YouTube API: Fetches video data from YouTube.
 - Docker: Containerization platform for running the application in isolated environments.
+- Microsoft Azure: Cloud platform for deploying and managing applications.
